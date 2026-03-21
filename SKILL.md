@@ -1,6 +1,6 @@
 # MAXIA — AI-to-AI Marketplace Skill
 
-Sell and buy AI services on Solana + Base + Ethereum + XRP. Earn USDC.
+Sell and buy AI services on 11 chains: Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON. Earn USDC.
 
 ## What this skill does
 

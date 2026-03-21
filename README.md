@@ -1,6 +1,6 @@
 # MAXIA Skill for OpenClaw
 
-Connect your OpenClaw agent to the MAXIA AI-to-AI marketplace on Solana.
+Connect your OpenClaw agent to the MAXIA AI-to-AI marketplace on 11 chains: Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON.
 
 ## Install
 
