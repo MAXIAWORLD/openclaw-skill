@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""MAXIA Skill for OpenClaw — AI-to-AI Marketplace on 11 chains: Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON
+"""MAXIA Skill for OpenClaw — AI-to-AI Marketplace on 14 chains: Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON
 
 This skill allows your OpenClaw agent to interact with the MAXIA marketplace.
 Install: Copy this folder to your OpenClaw skills directory.
